@@ -88,9 +88,11 @@
 3. 熟悉通常的前端优化方案，例如体积优化、性能优化等；
 4. 具备代码质量管理的能力，例如代码格式化、版本控制管理、文档管理等；
 5. `npm` 组件化开发，工具库开发；详情见我的[npm页面](https://www.npmjs.com/settings/xmon/packages)
+  1. CI/CD + gulp 实现 npm 发布测试全流程自动化[cal-rule](https://github.com/darkXmo/cal-rule)
 6. 全栈（前端+后端+运维）；
    1. 后端采用Nodejs进行开发，有`koa`和`express`的开发经验，最近使用的是`nestjs`。（使用后对 `nestjs` 持悲观态度）；
-   2. 具备基础的 `nginx` 和 `mysql` 的使用能力；
+   2. 具备基础的 `nginx` 和 `mysql` 的使用能力；通过 `nginx` 进行项目调优及 `HTTP2.0` 配置；
+   3. 使用 `docker` + `Jenkins` 进行前后端自动化部署；
 7. 具备流畅的表达能力，合理的交流和理解能力；配合产品经理和设计师优化产品；
 8. 善于寻找问题的解决方案，倾向于翻查英语体系内的解决方案，例如 `Stackoverflow` 。擅长阅读官方文档；
 9. 具备带领团队能力；
