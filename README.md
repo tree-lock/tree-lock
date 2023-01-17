@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on challenging Typescript webgl project
 - 📫 Reach me by email xmolan0718@gmail.com
 
-<img align="" width="57.5%" src="https://github-readme-stats.vercel.app/api?username=darkXmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkXmo&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
-<img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=darkXmo&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
+<img align="" width="57.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darkXmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darkXmo&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
 
 ## 简介
 
