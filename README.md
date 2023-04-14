@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @darkXmo
 - 👀 I’m interested in frontend development (typescript)
-- 🌱 I’m currently learning webgpu and engineer management
-- 💞️ I’m looking to collaborate on challenging Typescript webgl project
+- 🌱 I’m currently learning solidity and nextjs
+- 💞️ I’m looking to collaborate on challenging web3 project
 - 📫 Reach me by email xmolan0718@gmail.com
 
 <img align="" width="57.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darkXmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darkXmo&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
 
 ## 简介
 
-前端开发工程师 / TS全栈开发工程师
+前端开发工程师 / TS全栈开发工程师 (frontend / full-stack engineer)
 
 + 我的 [github](https://github.com/darkXmo) [gitee](https://gitee.com/dXmo)
 + 推荐联系方式 
@@ -29,6 +29,8 @@
 
 + 2021.7 - 2022.2 南京线下开发
 + 2022.2- 2023.2 深圳远程开发
+
+2023 高塔量化有限公司 全栈开发工程师
 
 ## 项目经历
 
@@ -85,28 +87,28 @@
 除通常的前端开发能力外，我还具备以下能力：
 
 1. 熟练使用 `typescript`  进行前端开发；
-2. 熟悉 `Vue3 + Vite2 + TS` 的开发框架
-   1. 具备快速上手的能力， `React` ，`Svelte` 等；
+2. 熟悉 `Vue3 + Vite2 + TS` 和 `Nextjs + React + Ts` 的开发框架
 3. 熟悉通常的前端优化方案，例如体积优化、性能优化等；
 4. 具备代码质量管理的能力，例如代码格式化、版本控制管理、文档管理等；
 5. `npm` 组件化开发，工具库开发；详情见我的[npm页面](https://www.npmjs.com/settings/xmon/packages)
   1. CI/CD + gulp 实现 npm 发布测试全流程自动化[cal-rule](https://github.com/darkXmo/cal-rule)
 6. 全栈（前端+后端+运维）；
-   1. 后端采用Nodejs进行开发，有`koa`和`express`的开发经验，最近使用的是`nestjs`。（使用后对 `nestjs` 持悲观态度）；
+   1. 后端采用Nodejs进行开发，有`koa2`、`nestjs`和`express`的开发经验；
    2. 具备基础的 `nginx` 和 `mysql` 的使用能力；通过 `nginx` 进行项目调优及 `HTTP2.0` 配置；
-   3. 使用 `docker` + `Jenkins` 进行前后端自动化部署；
-7. 具备流畅的表达能力，合理的交流和理解能力；配合产品经理和设计师优化产品；
-8. 善于寻找问题的解决方案，倾向于翻查英语体系内的解决方案，例如 `Stackoverflow` 。擅长阅读官方文档；
-9. 具备带领团队能力；
+   3. 使用 `docker` + `Jenkins` 或 `vercel` + `fly.io` 进行前后端自动化部署；
+7. 了解 web3 ，并能够使用 `solidity` 实现简单合约功能、能读懂大部分合约。
+8. 具备流畅的表达能力，合理的交流和理解能力；配合产品经理和设计师优化产品；
+9. 善于寻找问题的解决方案，倾向于翻查英语体系内的解决方案，例如 `Stackoverflow` 。擅长阅读官方文档；
+10. 具备带领团队能力；
    1. 能从零创建团队项目；
    2. 能控制团队代码质量；
    3. 能及时修正团队漏洞，总结团队问题；
-10. 具备单人开发能力；
+11. 具备单人开发能力；
     1. 能快速地从零创建单人高质量项目；
     2. 单人开发产出相对高质量的产品；
     3. 溯源产品问题；
-11. 学习能力和学习兴趣，包括但不限于前端开发，后端开发，产品、运维、外语。
-12. 具备 `Linux` 环境开发的能力；
+12. 学习能力和学习兴趣，包括但不限于前端开发，后端开发，产品、运维、外语。
+13. 具备 `Linux` 环境开发的能力；
 
 ## 个人习惯
 
@@ -130,12 +132,11 @@
    5. 接口文档地址及设计图地址；
    6. 注意事项；
    7. 项目模块划分；
-5. 多人开发倾向使用**模块划分**而不是组件划分。（所有人之间原则上除外部框架外，不相互复用组件；如成员间有相似功能的组件，可以 `copy` 队友的代码，但不应当 `import` 队友的代码以防止团队成员的开发互相影响）
-6. 线下办公使用27寸4K显示器；
-7. 后端接口文档使用 `apifox` 或 `postman` 之类的团队协作接口工具；
-8. 习惯的开发环境为 `Windows11` + `WSL2` + `Ubuntu22.04` + `vscode` ；
-9. 不喜欢花里胡哨和废话；
-10. 喜欢技术人才和迎接技术挑战，关注新技术；尤其喜欢学习并应用新技术；
+5. 线下办公使用2台27寸4K显示器；
+6. 后端接口文档使用 `apifox` 或 `postman` 之类的团队协作接口工具；
+7. 习惯的开发环境为 `Windows11` + `WSL2` + `Ubuntu22.04` + `vscode` ；
+8. 不喜欢花里胡哨和废话；
+9. 喜欢技术人才和迎接技术挑战，关注新技术；尤其喜欢学习并应用新技术；
 
 
 
