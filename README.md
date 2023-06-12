@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @darkXmo
+- 👋 Hi, I’m @tree-lock
 - 👀 I’m interested in frontend development (typescript)
 - 🌱 I’m currently learning solidity and nextjs
 - 💞️ I’m looking to collaborate on challenging web3 project
 - 📫 Reach me by email xmolan0718@gmail.com
 
-<img align="" width="57.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darkXmo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darkXmo&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
+<img align="" width="57.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tree-lock&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tree-lock&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
 
 ## 简介
 
 前端开发工程师 / TS全栈开发工程师 (frontend / full-stack engineer)
 
-+ 我的 [github](https://github.com/darkXmo) [gitee](https://gitee.com/dXmo)
++ 我的 [github](https://github.com/tree-lock) [gitee](https://gitee.com/dXmo)
 + 推荐联系方式 
   + email: xmolan0718@gmail.com
   + tim/qq: 1102875642
@@ -42,13 +42,13 @@
 
 1. 从零开始的 前端SSR 项目开发（Vue2 + Nuxt2 + Typescript）【单人开发】
 2. 用于大数据人工智能的数据标记工具 （Vue2）【双人合作开发】
-   1. 主要负责利用 `konva` 进行 `canvas` 开发，处理图片框选；（[v-ocr-canvas](https://github.com/darkXmo/v-ocr-canvas)）
+   1. 主要负责利用 `konva` 进行 `canvas` 开发，处理图片框选；（[v-ocr-canvas](https://github.com/tree-lock/v-ocr-canvas)）
    2. 进行项目优化重构；
 3. 合同审查类 ERP 系统开发【带领前端团队多人合作开发】
    1. 项目主架构开发（Vue3 + Vite2）
-   2. 封装文本编辑器 `only-office` ；（[v-only-office](https://github.com/darkXmo/v-only-office)）
+   2. 封装文本编辑器 `only-office` ；（[v-only-office](https://github.com/tree-lock/v-only-office)）
 4. 裁判文书生成系统前端开发（Vue3）【多人合作开发】
-   1. 规则引擎开发（[cal-rule](https://github.com/darkXmo/cal-rule)）
+   1. 规则引擎开发（[cal-rule](https://github.com/tree-lock/cal-rule)）
    2. H5移动端项目开发【单人开发】
 5. 公司前端规范构建【带领公司前端精英团队】
    1. 前端规范文本化（README文档+git分支+git提交+代码格式化+gitlab描述）
@@ -60,19 +60,19 @@
 
 1. `once-init`
 
-   [once-init](https://github.com/darkXmo/once-init)
+   [once-init](https://github.com/tree-lock/once-init)
 
    一个能够按需减少重复 `Promise` 的工具；
 
 2. `bury`
 
-   [bury](https://github.com/darkXmo/bury)
+   [bury](https://github.com/tree-lock/bury)
 
    一个能够自动接管全局埋点的工具；
 
 3. `vue3-template`
 
-   [vue3-template](https://github.com/darkXmo/vue3-template)
+   [vue3-template](https://github.com/tree-lock/vue3-template)
 
    个人 `vue3` 开发项目模板；
 
@@ -91,7 +91,7 @@
 3. 熟悉通常的前端优化方案，例如体积优化、性能优化等；
 4. 具备代码质量管理的能力，例如代码格式化、版本控制管理、文档管理等；
 5. `npm` 组件化开发，工具库开发；详情见我的[npm页面](https://www.npmjs.com/settings/xmon/packages)
-  1. CI/CD + gulp 实现 npm 发布测试全流程自动化[cal-rule](https://github.com/darkXmo/cal-rule)
+  1. CI/CD + gulp 实现 npm 发布测试全流程自动化[cal-rule](https://github.com/tree-lock/cal-rule)
 6. 全栈（前端+后端+运维）；
    1. 后端采用Nodejs进行开发，有`koa2`、`nestjs`和`express`的开发经验；
    2. 具备基础的 `nginx` 和 `mysql` 的使用能力；通过 `nginx` 进行项目调优及 `HTTP2.0` 配置；
@@ -114,9 +114,9 @@
 
 > 我的代码组织风格，可参照我个人的相对较新的项目
 >
-> 组件化开发可参照：[cal-rule](https://github.com/darkXmo/cal-rule) 
+> 组件化开发可参照：[cal-rule](https://github.com/tree-lock/cal-rule) 
 >
-> 项目开发可参照：[vue3-template](https://github.com/darkXmo/vue3-template)
+> 项目开发可参照：[vue3-template](https://github.com/tree-lock/vue3-template)
 
 若以下个人开发习惯，贵公司如有无法满足的事项，**请事先告知本人**：
 
@@ -141,6 +141,6 @@
 
 
 <!---
-darkXmo/darkXmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tree/tree-lock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
