@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tree-lock
-- 👀 I’m interested in frontend development (typescript)
+- 👀 I’m interested in full-stack development (nodejs & typescript)
 - 🌱 I’m currently learning and working on solidity and nextjs
 - 💞️ I’m collaborate on challenging web3 project
 - 📫 Reach me by email xmolan0718@gmail.com or xmo@derivio.xyz[for work only]
