@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tree-lock
 - 👀 I’m interested in full-stack development (nodejs & typescript)
-- 🌱 I'm proficient at typescript & solidity
+- 🌱 I'm proficient at typescript
 - 📫 Reach me by email xmolan0718@gmail.com
 
 <img align="" width="57.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tree-lock&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tree-lock&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0&hide=python" />
