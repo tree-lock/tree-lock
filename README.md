@@ -14,7 +14,7 @@ A quick idea of my skill points by the following tags.
 ## Profile
 
 1. [Basic Development Skills]: Experienced full-stack developer with 2+ years of experience in building robust web applications. Skilled in JavaScript frameworks including frontend Vue.js, React, and backend environments Node.js and bun.sh. Proficient in creating smooth, fast, and responsive UI components using current best practices.
-2. [Database Skills]: Back-end developer focused on developing and consuming RESTful APIs with Node.js (Express, NestJS) or bun, while integrating MongoDB, MySQL, PostgreSQL, and Redis for data persistence. Experienced in implementing authentication, caching, and API integrations, with confidence in handling common CRUD operations and file storage.
+2. [Database Skills]: Back-end developer focused on developing and consuming RESTful APIs with Node.js (Express, NestJS) or bun, while integrating MongoDB, MySQL, PostgreSQL, and Redis for data persistence. Experienced in implementing authentication, caching, and API integrations (http, websocket, SSE), with confidence in handling common CRUD operations and file storage.
 3. [Special Tools for Full-Stack]: Full-stack project specialist utilizing tRPC and Drizzle as connectors to combine frontend and backend APIs with strict typing. Preference for Turbo and pnpm as primary choices for monorepo project management.
 4. [CI/CD]: Familiar with Linux environments, including managing development workflows, writing Dockerfiles, bash scripting, and system administration. Comfortable with developing, debugging, and deploying applications in Linux.
 5. [Platforms]: Experienced with fly.io, Vercel, Supabase, and common cloud services [such as Amazon].
