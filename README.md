@@ -25,6 +25,7 @@ A quick idea of my skill points by the following tags.
 ## Something you may interested in
 
 1. I use WSL and PowerShell as my Windows development environment terminals.
-2. My Windows-based computer was assembled by me personally.
-3. I utilize Stack Overflow and GitHub issue pages to find solutions when encountering bugs.
-4. I live in a home equipped with various smart home products.
+2. I use VScode with code pilot AI as my main development tool.
+3. My Windows-based computer was assembled by me personally.
+4. I utilize Stack Overflow and GitHub issue pages to find solutions when encountering bugs.
+5. I live in a home equipped with various smart home products.
