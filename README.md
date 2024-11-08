@@ -33,4 +33,10 @@ I AM
 
 ## Something you may interested in
 
-1. 
+1. I use `wsl` and `powershell` as my windows developing terminal;
+
+2. My computer with windows system is assembled by myself;
+
+3. I visit [stackoverflow](https://stackoverflow.com/) or github issue page to find solution when I ran into bugs;
+
+4. I am living in a home surrounded by smart home products;
