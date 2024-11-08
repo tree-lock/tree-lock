@@ -13,30 +13,18 @@ A quick idea of my skill points by the following tags.
 
 ## Profile
 
-I AM
-
-1. [Basic develop skill]: Experienced full-stack developer with 2+ years building robust web applications from front to back. Skilled in JavaScript frameworks including frontend [Vue.js](https://vuejs.org/), [React](https://react.dev/), and backend environment [Node.js](https://nodejs.org/en), [bun.sh](https://bun.sh/). Able to create smooth, fast and responsive UI components using current best practices.
-
-2. [Database skill]: Back-end focused on developing and consuming RESTful APIs with Node.js (`Express`, `NestJS`) or `bun` while integrating `MongoDB`, `MySQL`, `Postgresql` and `Redis` for data persistence. Implemented authentication, caching, and API integrations, and be confident to handle any common CRUD action, and file storage;
-
-3. [Sepcial tool for full stack]: To make a full-stack project, using `trpc` and `drizzle` as connector to combine frontend and backend api with strict type; choose [turbo](https://turbo.build/) and pnpm as first choice to make a monorepo project;
-   
-4. [CI/CD]: Familiar with working in Linux environments including managing development workflows, writing Dockerfile, bash scripting, and system administration. Comfortable developing, debugging and deploying apps in Linux.
-
-5. [Platform]: [fly.io](https://fly.io/), [vercel](https://vercel.com/), [supabase](https://supabase.com/), common cloud server [such as Amazon];
-
-7. [WEB3]: Passionate about blockchain technology and web3 development. Experience with `Ethereum`, `Solidity`, writing and interacting with smart contracts.
-
-8. [Mini app]: Participated in development on telegram mini app with `nextjs`, and wechat mini app with `uniapp`;
-
-9. [Others say about me]: Successful working in fast-paced teams juggling multiple projects. Diligent problem solver able to pick up new technologies quickly. Organized and detail-oriented with every phase of development from planning to delivery. Excited to continuously expand coding skills and methodologies.
+1. [Basic Development Skills]: Experienced full-stack developer with 2+ years of experience in building robust web applications. Skilled in JavaScript frameworks including frontend Vue.js, React, and backend environments Node.js and bun.sh. Proficient in creating smooth, fast, and responsive UI components using current best practices.
+2. [Database Skills]: Back-end developer focused on developing and consuming RESTful APIs with Node.js (Express, NestJS) or bun, while integrating MongoDB, MySQL, PostgreSQL, and Redis for data persistence. Experienced in implementing authentication, caching, and API integrations, with confidence in handling common CRUD operations and file storage.
+3. [Special Tools for Full-Stack]: Full-stack project specialist utilizing tRPC and Drizzle as connectors to combine frontend and backend APIs with strict typing. Preference for Turbo and pnpm as primary choices for monorepo project management.
+4. [CI/CD]: Familiar with Linux environments, including managing development workflows, writing Dockerfiles, bash scripting, and system administration. Comfortable with developing, debugging, and deploying applications in Linux.
+5. [Platforms]: Experienced with fly.io, Vercel, Supabase, and common cloud services [such as Amazon].
+6. [WEB3]: Passionate about blockchain technology and web3 development. Experienced with Ethereum and Solidity, including writing and interacting with smart contracts.
+7. [Mini Apps]: Experienced in developing Telegram mini apps with Next.js and WeChat mini apps with UniApp.
+8. [Professional Reputation]: Proven track record of success in fast-paced teams managing multiple projects. Diligent problem solver with the ability to quickly adopt new technologies. Organized and detail-oriented throughout all phases of development, from planning to delivery. Committed to continuously expanding coding skills and methodologies.
 
 ## Something you may interested in
 
-1. I use `wsl` and `powershell` as my windows developing terminal;
-
-2. My computer with windows system is assembled by myself;
-
-3. I visit [stackoverflow](https://stackoverflow.com/) or github issue page to find solution when I ran into bugs;
-
-4. I am living in a home surrounded by smart home products;
+1. I use WSL and PowerShell as my Windows development environment terminals.
+2. My Windows-based computer was assembled by me personally.
+3. I utilize Stack Overflow and GitHub issue pages to find solutions when encountering bugs.
+4. I live in a home equipped with various smart home products.
